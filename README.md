@@ -23,4 +23,4 @@ To test it use the following command from the mito directory:</br>
 go run ./cmd/mito/main.go -data example.json example.cel
 ```
 
-You should have the ame result that the one given by the GitHub README.md file.</br>
+You should have the same result that the one given by the GitHub README.md file.</br>
