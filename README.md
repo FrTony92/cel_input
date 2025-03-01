@@ -12,15 +12,39 @@ docker run -it -d -p 1880:1880 -v /data/echange/:/data/echange --name mynodered 
 Import the following code to create 2 APIs calls in NodeRed:</br>
 [NodeRed_flow.json](/NodeRed_flow.json)</br>
 
-The firts one will answer a API Token.</br>
+The first one will answer an API Token.</br>
 The second one will take a json file in the NodeRed volume and send it as the response of the API call.</br>
 You can export API result in a JSON file and reuse it for test.</br>
 
-On the same server you can git clone the MITO library located in GitHub: [MITO](https://github.com/elastic/mito/tree/dev?tab=readme-ov-file)
+## Setup mito environement
 
+[MITO](https://github.com/elastic/mito/tree/dev?tab=readme-ov-file)
+
+Ubuntu:
+```
+sudo apt remove golang-go
+sudo rm -rf /usr/local/go
+wget https://golang.org/dl/go1.24.0.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.24.0.linux-amd64.tar.gz
+echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bashrc
+. ~/.bashrc
+```
+Becomes root:
+```
+echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bashrc
+. ~/.bashrc
+cd /usr/local/go/src/
+git clone https://github.com/elastic/mito.git
+cd mito
+go mod tidy
+cd cmd/mito
+go build
+cp mito /usr/local/bin/
+```
 To test it use the following command from the mito directory:</br>
 ```
-go run ./cmd/mito/main.go -data example.json example.cel
+cd /usr/local/go/src/mito
+mito -data example.json example.cel
 ```
 
 You should have the same result that the one given by the GitHub README.md file.</br>
