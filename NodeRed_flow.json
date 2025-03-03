@@ -1,15 +1,15 @@
 [
     {
-        "id": "f6f2187d.f17ca8",
+        "id": "394bce6493901508",
         "type": "tab",
-        "label": "Flow 1",
+        "label": "API tester",
         "disabled": false,
         "info": ""
     },
     {
-        "id": "6fa38570b11dd738",
+        "id": "cd71c98fcba40055",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill": "#bfdbef",
@@ -17,23 +17,24 @@
             "fill-opacity": "0.2"
         },
         "nodes": [
-            "cbd659175b97800d",
-            "a6bdd762198c2b47",
-            "ba9419a1ee5638a0",
-            "68b12380b2cafc9d",
-            "b2d67a2422e8e30f",
-            "3cebdcd71ecbfa3b",
-            "4c4dfaa0dff9a8b2"
+            "2b8edb33c35e11cb",
+            "8ad3f9b888df05df",
+            "adf7b8b3cabc3ba0",
+            "12fee728ee09aecd",
+            "bfbe67c4dd5b8661",
+            "1b6c944766cf1002",
+            "3b7bd027c4f00a1d",
+            "88dca311d3d0fd90"
         ],
         "x": 114,
-        "y": 39,
+        "y": 19,
         "w": 1292,
-        "h": 162
+        "h": 182
     },
     {
-        "id": "18f4443d1c98aaea",
+        "id": "d895d48d13cba11e",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill": "#bfdbef",
@@ -41,16 +42,16 @@
             "label": true
         },
         "nodes": [
-            "57536716c0d70720",
-            "b12b308ca34055f7",
-            "c3d5316b8a24a9de",
-            "882a4e2deff85a36",
-            "52dafb9289eded1d",
-            "6122b541c03ee6a9",
-            "343307978909dcfd",
-            "7c7eae9f690e950b",
-            "f8bb079604477852",
-            "468751def60c5463"
+            "aaa53d6fc15562b6",
+            "5d1916156221b716",
+            "5bc43b7e13b61000",
+            "72953f3a7c4652e8",
+            "7494b6279bd5060d",
+            "0239754e78cd9697",
+            "71f82953e392b272",
+            "c739add2b872cec5",
+            "396f5e168ac41c45",
+            "ca72f77d746cbbeb"
         ],
         "x": 114,
         "y": 219,
@@ -58,9 +59,9 @@
         "h": 282
     },
     {
-        "id": "d7dbfcdccb2d1204",
+        "id": "b566b078c976aea3",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill": "#bfdbef",
@@ -68,22 +69,22 @@
             "fill-opacity": "0.2"
         },
         "nodes": [
-            "830618cf5786284f",
-            "7162511c2fb2f793",
-            "201cc2a1c35074fd",
-            "f63d59ba969c30e4",
-            "c0320b3228dac106",
-            "d05a5cc86b081f5a"
+            "5ecc2d577a62724a",
+            "64964f2cc3fbf147",
+            "0f43d8e044b35373",
+            "126d050da45eef91",
+            "1b1355385547065a",
+            "b6100824af704220"
         ],
         "x": 114,
-        "y": 659,
+        "y": 539,
         "w": 1292,
         "h": 182
     },
     {
-        "id": "bf3559d312759659",
+        "id": "593e62a9d1f20201",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill": "#e3f3d3",
@@ -91,20 +92,20 @@
             "label": true
         },
         "nodes": [
-            "b630b30cd11a7054",
-            "2eb794a9fd0213ba",
-            "6145e1d1dbfee8fd",
-            "a860e3235dcfedfe"
+            "3eaf39ae6cd2edc9",
+            "83d70889ee07e0d9",
+            "6808c55419a26ecf",
+            "98c7ee326a2b6af2"
         ],
         "x": 114,
-        "y": 859,
+        "y": 759,
         "w": 1292,
         "h": 142
     },
     {
-        "id": "3341484274e47292",
+        "id": "4ab73c8f021e2fd4",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill-opacity": "0.51",
@@ -112,19 +113,19 @@
             "fill": "#ff7f7f"
         },
         "nodes": [
-            "403f07540bfbb6d7",
-            "789cb53e96db643a",
-            "2ccfc51aa5b0278b"
+            "d1407aaebf492661",
+            "a86983f3ea627c7a",
+            "46b7365ed73d9552"
         ],
-        "x": 994,
-        "y": 519,
+        "x": 1454,
+        "y": 459,
         "w": 412,
         "h": 122
     },
     {
-        "id": "80bdbf53b081062a",
+        "id": "cd7356eb9cd19fec",
         "type": "group",
-        "z": "f6f2187d.f17ca8",
+        "z": "394bce6493901508",
         "name": "",
         "style": {
             "fill": "#bfdbef",
@@ -132,26 +133,26 @@
             "label": true
         },
         "nodes": [
-            "54f99085b2326006",
-            "bb03c1c8a2854b9d",
-            "0f5696035c7ce7d1",
-            "065fbf47a9729d50",
-            "398f1b3405733247",
-            "83c49cf596da44c6",
-            "32d12ca8dfd1ae2d",
-            "82e3b431637e0854",
-            "4c7259b40864ebb7"
+            "1a37137bc3322a86",
+            "bdb3b4740d2b7db5",
+            "da2bd796370d23bc",
+            "d1b9887d5c328d8c",
+            "1077cb039157bfa2",
+            "ddc3d6f241b68fcd",
+            "5c7f5e51d238881a",
+            "7ec25fc3d79d9a18",
+            "2843027a9074283b"
         ],
         "x": 114,
-        "y": 1039,
+        "y": 939,
         "w": 1152,
         "h": 242
     },
     {
-        "id": "57536716c0d70720",
+        "id": "aaa53d6fc15562b6",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "",
         "url": "/query/api",
         "method": "get",
@@ -161,15 +162,15 @@
         "y": 320,
         "wires": [
             [
-                "52dafb9289eded1d"
+                "7494b6279bd5060d"
             ]
         ]
     },
     {
-        "id": "b2d67a2422e8e30f",
+        "id": "bfbe67c4dd5b8661",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "Output GET Token",
         "active": true,
         "tosidebar": true,
@@ -180,14 +181,14 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1270,
-        "y": 120,
+        "y": 100,
         "wires": []
     },
     {
-        "id": "b12b308ca34055f7",
+        "id": "5d1916156221b716",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "",
         "rules": [
             {
@@ -221,30 +222,30 @@
         "y": 320,
         "wires": [
             [
-                "343307978909dcfd",
-                "7c7eae9f690e950b"
+                "71f82953e392b272",
+                "c739add2b872cec5"
             ]
         ]
     },
     {
-        "id": "68b12380b2cafc9d",
+        "id": "12fee728ee09aecd",
         "type": "http response",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "respons token",
-        "statusCode": "",
+        "statusCode": "200",
         "headers": {},
         "x": 1260,
-        "y": 160,
+        "y": 140,
         "wires": []
     },
     {
-        "id": "c3d5316b8a24a9de",
+        "id": "5bc43b7e13b61000",
         "type": "file in",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "JSON response file",
-        "filename": "/data/echange/response.json",
+        "filename": "/data/echange/nutanix_response.json",
         "filenameType": "str",
         "format": "utf8",
         "chunk": false,
@@ -255,15 +256,15 @@
         "y": 320,
         "wires": [
             [
-                "882a4e2deff85a36"
+                "72953f3a7c4652e8"
             ]
         ]
     },
     {
-        "id": "882a4e2deff85a36",
+        "id": "72953f3a7c4652e8",
         "type": "json",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "",
         "property": "payload",
         "action": "",
@@ -272,33 +273,33 @@
         "y": 320,
         "wires": [
             [
-                "b12b308ca34055f7"
+                "5d1916156221b716"
             ]
         ]
     },
     {
-        "id": "cbd659175b97800d",
+        "id": "2b8edb33c35e11cb",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "",
         "url": "/query/token",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
         "x": 220,
-        "y": 140,
+        "y": 120,
         "wires": [
             [
-                "3cebdcd71ecbfa3b"
+                "88dca311d3d0fd90"
             ]
         ]
     },
     {
-        "id": "a6bdd762198c2b47",
+        "id": "8ad3f9b888df05df",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "",
         "rules": [
             {
@@ -315,19 +316,19 @@
         "to": "",
         "reg": false,
         "x": 980,
-        "y": 140,
+        "y": 120,
         "wires": [
             [
-                "68b12380b2cafc9d",
-                "b2d67a2422e8e30f"
+                "12fee728ee09aecd",
+                "bfbe67c4dd5b8661"
             ]
         ]
     },
     {
-        "id": "52dafb9289eded1d",
+        "id": "7494b6279bd5060d",
         "type": "switch",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "Token check",
         "property": "req.headers.authorization",
         "propertyType": "msg",
@@ -350,18 +351,18 @@
         "y": 360,
         "wires": [
             [
-                "c3d5316b8a24a9de"
+                "5bc43b7e13b61000"
             ],
             [
-                "2ccfc51aa5b0278b"
+                "46b7365ed73d9552"
             ]
         ]
     },
     {
-        "id": "6122b541c03ee6a9",
+        "id": "0239754e78cd9697",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "",
         "url": "/query/api",
         "method": "post",
@@ -371,28 +372,28 @@
         "y": 400,
         "wires": [
             [
-                "52dafb9289eded1d"
+                "7494b6279bd5060d"
             ]
         ]
     },
     {
-        "id": "ba9419a1ee5638a0",
+        "id": "adf7b8b3cabc3ba0",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "Get current token with user / password not checked",
         "info": "TOKEN=`curl http://127.0.0.1:1880/query/token -s | jq -r '.token'`",
         "x": 330,
-        "y": 80,
+        "y": 60,
         "wires": []
     },
     {
-        "id": "343307978909dcfd",
+        "id": "71f82953e392b272",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "Output GET/POST",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -405,10 +406,10 @@
         "wires": []
     },
     {
-        "id": "7c7eae9f690e950b",
+        "id": "c739add2b872cec5",
         "type": "http response",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "",
         "statusCode": "",
         "headers": {},
@@ -417,10 +418,10 @@
         "wires": []
     },
     {
-        "id": "f8bb079604477852",
+        "id": "396f5e168ac41c45",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "Get JSON with token given",
         "info": "curl -H 'Authorization: '$TOKEN http://127.0.0.1:1880/query/api",
         "x": 250,
@@ -428,26 +429,10 @@
         "wires": []
     },
     {
-        "id": "3cebdcd71ecbfa3b",
-        "type": "random-string",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
-        "size": 16,
-        "characters": "",
-        "property": "payload",
-        "x": 460,
-        "y": 140,
-        "wires": [
-            [
-                "4c4dfaa0dff9a8b2"
-            ]
-        ]
-    },
-    {
-        "id": "4c4dfaa0dff9a8b2",
+        "id": "3b7bd027c4f00a1d",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "6fa38570b11dd738",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
         "name": "Save token to flow level",
         "rules": [
             {
@@ -476,59 +461,59 @@
         "to": "",
         "reg": false,
         "x": 730,
-        "y": 140,
+        "y": 120,
         "wires": [
             [
-                "a6bdd762198c2b47"
+                "8ad3f9b888df05df"
             ]
         ]
     },
     {
-        "id": "830618cf5786284f",
+        "id": "5ecc2d577a62724a",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "",
-        "url": "/query/token",
-        "method": "delete",
+        "url": "/query/revocation",
+        "method": "post",
         "upload": false,
         "swaggerDoc": "",
-        "x": 230,
-        "y": 760,
+        "x": 240,
+        "y": 640,
         "wires": [
             [
-                "d05a5cc86b081f5a"
+                "b6100824af704220"
             ]
         ]
     },
     {
-        "id": "7162511c2fb2f793",
+        "id": "64964f2cc3fbf147",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "Revoke token",
-        "info": "curl -H 'Authorization: '$TOKEN -X DELETE http://127.0.0.1:1880/query/token -v",
+        "info": "curl -H 'Authorization: '$TOKEN -X POST http://127.0.0.1:1880/query/revocation -v",
         "x": 210,
-        "y": 700,
+        "y": 580,
         "wires": []
     },
     {
-        "id": "201cc2a1c35074fd",
+        "id": "0f43d8e044b35373",
         "type": "http response",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "respons",
         "statusCode": "",
         "headers": {},
         "x": 1260,
-        "y": 800,
+        "y": 680,
         "wires": []
     },
     {
-        "id": "f63d59ba969c30e4",
+        "id": "126d050da45eef91",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "Output Revoke",
         "active": false,
         "tosidebar": true,
@@ -539,14 +524,14 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1280,
-        "y": 760,
+        "y": 640,
         "wires": []
     },
     {
-        "id": "c0320b3228dac106",
+        "id": "1b1355385547065a",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "Save token to flow level",
         "rules": [
             {
@@ -568,19 +553,19 @@
         "to": "",
         "reg": false,
         "x": 990,
-        "y": 780,
+        "y": 660,
         "wires": [
             [
-                "f63d59ba969c30e4",
-                "201cc2a1c35074fd"
+                "126d050da45eef91",
+                "0f43d8e044b35373"
             ]
         ]
     },
     {
-        "id": "d05a5cc86b081f5a",
+        "id": "b6100824af704220",
         "type": "switch",
-        "z": "f6f2187d.f17ca8",
-        "g": "d7dbfcdccb2d1204",
+        "z": "394bce6493901508",
+        "g": "b566b078c976aea3",
         "name": "Token check",
         "property": "req.headers.authorization",
         "propertyType": "msg",
@@ -600,35 +585,35 @@
         "repair": false,
         "outputs": 2,
         "x": 470,
-        "y": 760,
+        "y": 640,
         "wires": [
             [
-                "2ccfc51aa5b0278b"
+                "46b7365ed73d9552"
             ],
             [
-                "c0320b3228dac106"
+                "1b1355385547065a"
             ]
         ]
     },
     {
-        "id": "403f07540bfbb6d7",
+        "id": "d1407aaebf492661",
         "type": "http response",
-        "z": "f6f2187d.f17ca8",
-        "g": "3341484274e47292",
+        "z": "394bce6493901508",
+        "g": "4ab73c8f021e2fd4",
         "name": "",
         "statusCode": "404",
         "headers": {},
-        "x": 1280,
-        "y": 560,
+        "x": 1740,
+        "y": 500,
         "wires": []
     },
     {
-        "id": "789cb53e96db643a",
+        "id": "a86983f3ea627c7a",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "3341484274e47292",
+        "z": "394bce6493901508",
+        "g": "4ab73c8f021e2fd4",
         "name": "Error Header",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -636,15 +621,15 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1290,
-        "y": 600,
+        "x": 1750,
+        "y": 540,
         "wires": []
     },
     {
-        "id": "2ccfc51aa5b0278b",
+        "id": "46b7365ed73d9552",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "3341484274e47292",
+        "z": "394bce6493901508",
+        "g": "4ab73c8f021e2fd4",
         "name": "",
         "rules": [
             {
@@ -660,20 +645,20 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1100,
-        "y": 580,
+        "x": 1560,
+        "y": 520,
         "wires": [
             [
-                "789cb53e96db643a",
-                "403f07540bfbb6d7"
+                "a86983f3ea627c7a",
+                "d1407aaebf492661"
             ]
         ]
     },
     {
-        "id": "b630b30cd11a7054",
+        "id": "3eaf39ae6cd2edc9",
         "type": "inject",
-        "z": "f6f2187d.f17ca8",
-        "g": "bf3559d312759659",
+        "z": "394bce6493901508",
+        "g": "593e62a9d1f20201",
         "name": "",
         "props": [
             {
@@ -692,18 +677,18 @@
         "payload": "",
         "payloadType": "date",
         "x": 220,
-        "y": 960,
+        "y": 860,
         "wires": [
             [
-                "2eb794a9fd0213ba"
+                "83d70889ee07e0d9"
             ]
         ]
     },
     {
-        "id": "2eb794a9fd0213ba",
+        "id": "83d70889ee07e0d9",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "bf3559d312759659",
+        "z": "394bce6493901508",
+        "g": "593e62a9d1f20201",
         "name": "Show token",
         "rules": [
             {
@@ -720,18 +705,18 @@
         "to": "",
         "reg": false,
         "x": 690,
-        "y": 960,
+        "y": 860,
         "wires": [
             [
-                "6145e1d1dbfee8fd"
+                "6808c55419a26ecf"
             ]
         ]
     },
     {
-        "id": "6145e1d1dbfee8fd",
+        "id": "6808c55419a26ecf",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "bf3559d312759659",
+        "z": "394bce6493901508",
+        "g": "593e62a9d1f20201",
         "name": "Token stdin",
         "active": true,
         "tosidebar": true,
@@ -742,25 +727,25 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1290,
-        "y": 960,
+        "y": 860,
         "wires": []
     },
     {
-        "id": "a860e3235dcfedfe",
+        "id": "98c7ee326a2b6af2",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "bf3559d312759659",
+        "z": "394bce6493901508",
+        "g": "593e62a9d1f20201",
         "name": "Manually check token value at any time",
         "info": "",
         "x": 310,
-        "y": 900,
+        "y": 800,
         "wires": []
     },
     {
-        "id": "468751def60c5463",
+        "id": "ca72f77d746cbbeb",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "18f4443d1c98aaea",
+        "z": "394bce6493901508",
+        "g": "d895d48d13cba11e",
         "name": "Post JSON with token given",
         "info": "curl -H 'Authorization: '$TOKEN http://127.0.0.1:1880/query/api",
         "x": 260,
@@ -768,28 +753,28 @@
         "wires": []
     },
     {
-        "id": "54f99085b2326006",
+        "id": "1a37137bc3322a86",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "",
         "url": "/query/directapi",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
         "x": 230,
-        "y": 1140,
+        "y": 1040,
         "wires": [
             [
-                "0f5696035c7ce7d1"
+                "da2bd796370d23bc"
             ]
         ]
     },
     {
-        "id": "bb03c1c8a2854b9d",
+        "id": "bdb3b4740d2b7db5",
         "type": "change",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "",
         "rules": [
             {
@@ -820,19 +805,19 @@
         "to": "",
         "reg": false,
         "x": 820,
-        "y": 1160,
+        "y": 1060,
         "wires": [
             [
-                "83c49cf596da44c6",
-                "32d12ca8dfd1ae2d"
+                "ddc3d6f241b68fcd",
+                "5c7f5e51d238881a"
             ]
         ]
     },
     {
-        "id": "0f5696035c7ce7d1",
+        "id": "da2bd796370d23bc",
         "type": "file in",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "JSON response file",
         "filename": "/data/echange/response.json",
         "filenameType": "str",
@@ -842,53 +827,53 @@
         "encoding": "none",
         "allProps": false,
         "x": 510,
-        "y": 1160,
+        "y": 1060,
         "wires": [
             [
-                "065fbf47a9729d50"
+                "d1b9887d5c328d8c"
             ]
         ]
     },
     {
-        "id": "065fbf47a9729d50",
+        "id": "d1b9887d5c328d8c",
         "type": "json",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "",
         "property": "payload",
         "action": "",
         "pretty": false,
         "x": 670,
-        "y": 1160,
+        "y": 1060,
         "wires": [
             [
-                "bb03c1c8a2854b9d"
+                "bdb3b4740d2b7db5"
             ]
         ]
     },
     {
-        "id": "398f1b3405733247",
+        "id": "1077cb039157bfa2",
         "type": "http in",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "",
         "url": "/query/directapi",
         "method": "post",
         "upload": false,
         "swaggerDoc": "",
         "x": 240,
-        "y": 1180,
+        "y": 1080,
         "wires": [
             [
-                "0f5696035c7ce7d1"
+                "da2bd796370d23bc"
             ]
         ]
     },
     {
-        "id": "83c49cf596da44c6",
+        "id": "ddc3d6f241b68fcd",
         "type": "debug",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "DirectAPI Output GET/POST",
         "active": true,
         "tosidebar": true,
@@ -899,41 +884,85 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1100,
-        "y": 1140,
+        "y": 1040,
         "wires": []
     },
     {
-        "id": "32d12ca8dfd1ae2d",
+        "id": "5c7f5e51d238881a",
         "type": "http response",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "",
         "statusCode": "",
         "headers": {},
         "x": 1030,
-        "y": 1180,
-        "wires": []
-    },
-    {
-        "id": "82e3b431637e0854",
-        "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
-        "name": "Get JSON without token",
-        "info": "curl -H 'Authorization: '$TOKEN http://127.0.0.1:1880/query/api",
-        "x": 240,
         "y": 1080,
         "wires": []
     },
     {
-        "id": "4c7259b40864ebb7",
+        "id": "7ec25fc3d79d9a18",
         "type": "comment",
-        "z": "f6f2187d.f17ca8",
-        "g": "80bdbf53b081062a",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
+        "name": "Get JSON without token",
+        "info": "curl -H 'Authorization: '$TOKEN http://127.0.0.1:1880/query/api",
+        "x": 240,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "2843027a9074283b",
+        "type": "comment",
+        "z": "394bce6493901508",
+        "g": "cd7356eb9cd19fec",
         "name": "Post JSON with token given",
         "info": "curl -H 'Authorization: '$TOKEN http://127.0.0.1:1880/query/api",
         "x": 260,
-        "y": 1240,
+        "y": 1140,
         "wires": []
+    },
+    {
+        "id": "1b6c944766cf1002",
+        "type": "random-string",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
+        "size": 16,
+        "characters": "",
+        "property": "payload",
+        "x": 460,
+        "y": 120,
+        "wires": [
+            [
+                "3b7bd027c4f00a1d"
+            ]
+        ]
+    },
+    {
+        "id": "88dca311d3d0fd90",
+        "type": "change",
+        "z": "394bce6493901508",
+        "g": "cd71c98fcba40055",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "CECI_EST_UN_TOKEN",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 160,
+        "wires": [
+            [
+                "3b7bd027c4f00a1d"
+            ]
+        ]
     }
 ]
